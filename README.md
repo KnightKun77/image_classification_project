@@ -1,4 +1,4 @@
-# Image Classification Project
+# Image Classification Using Python
 
 ## Overview
 
